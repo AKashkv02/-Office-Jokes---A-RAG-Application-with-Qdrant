@@ -14,3 +14,5 @@ This project builds a Retrieval-Augmented Generation (RAG) application using the
 **RAG**: Retrieval-Augmented Generation. It's a natural language processing (NLP) technique that combines generative- and retrieval-based artificial intelligence (AI) models to improve the output of large language models (LLMs). RAG uses external data sources, like knowledge bases, to generate responses that reference an authoritative source outside of the LLM's training data sources. This can lead to more accurate AI responses that are also context-aware and human-like.
 
 **Gemini Pro API**: This API unlocks the capabilities of Google's advanced large language model (LLM), Gemini Pro. It empowers the project to generate creative text formats and manipulate language in innovative ways.
+
+![image](https://github.com/AKashkv02/-Office-Jokes---A-RAG-Application-with-Qdrant/assets/107745951/d5a04b17-621b-4e19-b412-47d605ca94f7)
